@@ -1,0 +1,61 @@
+nav{
+    margin: 0px 100px;
+}
+
+nav img{
+    width: 200px;
+    float: left;
+}
+
+header{
+    background-image: url(img/tutor.jpg) ;
+    background-size: cover;
+    height: 570px;  
+
+}
+
+.row{
+    float: right;
+    margin: 200px 150px;
+    width: 500px;
+}
+
+.row .card{
+    width: 550px;
+    background-color: :rgba(255,255,255, 0.6);
+    border: none;
+    color: darkblue;
+    text-align: center;    
+}
+
+
+.card-text li{
+      float:left;
+    list-style: none;
+}
+
+
+.card-btn{
+    margin-left: 21%;
+    margin-right: 21%;
+}
+
+.detail{
+    padding: 10% 15%;
+    background-color: #0288D1;
+}
+
+.detail .card{
+    margin: 0px 30px;
+    height: 430px;
+}
+
+.ending .card-deck{
+    background-color: #1A237E;
+    color: white;
+}
+
+.ending .card{
+    border: none;
+    background-color: #1A237E;
+}
